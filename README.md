@@ -29,7 +29,7 @@ Ensure you have the following installed:
 2. **Run the Script**:
    - Execute the script:
      ```bash
-     python optimized_face_recognition.py
+     python face_recognition.py
      ```
    - Press `q` to quit the application.
 
@@ -48,7 +48,7 @@ project_folder/
 ├── known_faces/
 │   ├── john_doe.jpg
 │   ├── jane_doe.jpg
-├── optimized_face_recognition.py
+├── face_recognition.py
 ```
 
 ## Customization
