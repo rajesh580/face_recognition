@@ -1,4 +1,4 @@
-# Optimized Face Recognition Script
+# Face Recognition
 
 This repository contains an optimized Python script for real-time face recognition using OpenCV and the `face_recognition` library. The script is designed for improved performance and can process frames efficiently by leveraging multithreading, frame resizing, and selective frame processing.
 
