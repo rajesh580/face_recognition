@@ -20,7 +20,7 @@ Ensure you have the following installed:
   ```
 - Webcam or camera device
 
-## How to Use
+# How to Use
 
 1. **Prepare Known Faces**:
    - Create a folder named `known_faces` in the same directory as the script.
